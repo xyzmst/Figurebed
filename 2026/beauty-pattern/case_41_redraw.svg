@@ -8,8 +8,12 @@
 <text x="630" y="136" font-size="18" font-family="PingFang SC, Arial" fill="#6d28d9">前高压力线</text>
 <rect x="292" y="379" width="270" height="20" fill="none" stroke="#2563eb" stroke-width="3"/>
 <text x="292" y="367" font-size="18" font-family="PingFang SC, Arial" fill="#1d4ed8">高位窄箱体</text>
-<polyline points="115,427 163,427 211,428 259,397 307,397 355,391 403,385 451,379 499,397 547,397 595,391 643,387 691,358 739,344" fill="none" stroke="#f59e0b" stroke-width="4"/>
-<text x="680" y="106" font-size="18" font-family="PingFang SC, Arial" fill="#b45309">5日线</text>
+<polyline points="307,397 355,391 403,385 451,379 499,397 547,397 595,391 643,387 691,358 739,344" fill="none" stroke="#f59e0b" stroke-width="3"/>
+<polyline points="547,396 595,390 643,385 691,368 739,370" fill="none" stroke="#8b5cf6" stroke-width="3" stroke-dasharray="8,4"/>
+<line x1="90" y1="91" x2="120" y2="91" stroke="#f59e0b" stroke-width="3"/>
+<text x="125" y="96" font-size="15" font-family="PingFang SC, Arial" fill="#b45309">MA5</text>
+<line x1="165" y1="91" x2="195" y2="91" stroke="#8b5cf6" stroke-width="3" stroke-dasharray="8,4"/>
+<text x="200" y="96" font-size="15" font-family="PingFang SC, Arial" fill="#7c3aed">MA10</text>
 <line x1="115" y1="403" x2="115" y2="435" stroke="#2f9e67" stroke-width="3"/>
 <rect x="104" y="415" width="22" height="8" fill="#2f9e67"/>
 <line x1="163" y1="399" x2="163" y2="437" stroke="#d74b42" stroke-width="3"/>
