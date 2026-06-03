@@ -3,59 +3,76 @@
 <rect x="70" y="135" width="750" height="450" rx="18" fill="#fffefb" stroke="#c9c2b8" stroke-width="2"/>
 <text x="70" y="70" font-size="34" font-family="PingFang SC, Arial" fill="#1f2933">案例28｜生益类个股</text>
 <text x="850" y="70" font-size="34" font-family="PingFang SC, Arial" fill="#b7791f">65/100  勉强</text>
-<line x1="110" y1="151" x2="780" y2="151" stroke="#7c3aed" stroke-width="2"/>
-<text x="630" y="136" font-size="18" font-family="PingFang SC, Arial" fill="#6d28d9">前高压力线</text>
-<rect x="292" y="379" width="270" height="20" fill="none" stroke="#2563eb" stroke-width="3"/>
-<text x="292" y="367" font-size="18" font-family="PingFang SC, Arial" fill="#1d4ed8">高位窄箱体</text>
-<polyline points="307,397 355,391 403,385 451,379 499,397 547,397 595,391 643,387 691,358 739,344" fill="none" stroke="#f59e0b" stroke-width="3"/>
-<polyline points="547,396 595,390 643,385 691,368 739,370" fill="none" stroke="#8b5cf6" stroke-width="3" stroke-dasharray="8,4"/>
-<line x1="90" y1="91" x2="120" y2="91" stroke="#f59e0b" stroke-width="3"/>
-<text x="125" y="96" font-size="15" font-family="PingFang SC, Arial" fill="#b45309">MA5</text>
-<line x1="165" y1="91" x2="195" y2="91" stroke="#8b5cf6" stroke-width="3" stroke-dasharray="8,4"/>
-<text x="200" y="96" font-size="15" font-family="PingFang SC, Arial" fill="#7c3aed">MA10</text>
-<line x1="115" y1="403" x2="115" y2="435" stroke="#2f9e67" stroke-width="3"/>
-<rect x="104" y="415" width="22" height="8" fill="#2f9e67"/>
-<line x1="163" y1="399" x2="163" y2="437" stroke="#d74b42" stroke-width="3"/>
-<rect x="152" y="413" width="22" height="10" fill="#d74b42"/>
-<line x1="211" y1="401" x2="211" y2="439" stroke="#2f9e67" stroke-width="3"/>
-<rect x="200" y="415" width="22" height="10" fill="#2f9e67"/>
-<line x1="259" y1="181" x2="259" y2="369" stroke="#2f9e67" stroke-width="3"/>
-<rect x="248" y="249" width="22" height="52" fill="#2f9e67"/>
-<line x1="307" y1="368" x2="307" y2="408" stroke="#d74b42" stroke-width="3"/>
-<rect x="296" y="383" width="22" height="10" fill="#d74b42"/>
-<line x1="355" y1="373" x2="355" y2="405" stroke="#2f9e67" stroke-width="3"/>
-<rect x="344" y="385" width="22" height="8" fill="#2f9e67"/>
-<line x1="403" y1="367" x2="403" y2="411" stroke="#d74b42" stroke-width="3"/>
-<rect x="392" y="383" width="22" height="12" fill="#d74b42"/>
-<line x1="451" y1="374" x2="451" y2="404" stroke="#2f9e67" stroke-width="3"/>
-<rect x="440" y="385" width="22" height="8" fill="#2f9e67"/>
-<line x1="499" y1="369" x2="499" y2="407" stroke="#d74b42" stroke-width="3"/>
-<rect x="488" y="383" width="22" height="10" fill="#d74b42"/>
-<line x1="547" y1="375" x2="547" y2="401" stroke="#2f9e67" stroke-width="3"/>
-<rect x="536" y="385" width="22" height="6" fill="#2f9e67"/>
-<line x1="595" y1="309" x2="595" y2="391" stroke="#2f9e67" stroke-width="3"/>
-<rect x="584" y="339" width="22" height="22" fill="#2f9e67"/>
-<line x1="643" y1="354" x2="643" y2="392" stroke="#d74b42" stroke-width="3"/>
-<rect x="632" y="368" width="22" height="10" fill="#d74b42"/>
-<line x1="691" y1="147" x2="691" y2="307" stroke="#2f9e67" stroke-width="3"/>
-<rect x="680" y="205" width="22" height="44" fill="#2f9e67"/>
-<line x1="739" y1="259" x2="739" y2="359" stroke="#2f9e67" stroke-width="3"/>
-<rect x="728" y="295" width="22" height="28" fill="#2f9e67"/>
-<rect x="103" y="516" width="24" height="14" fill="#2f9e67"/>
-<rect x="151" y="514" width="24" height="16" fill="#d74b42"/>
-<rect x="199" y="512" width="24" height="18" fill="#2f9e67"/>
-<rect x="247" y="465" width="24" height="65" fill="#2f9e67"/>
-<rect x="295" y="512" width="24" height="18" fill="#d74b42"/>
-<rect x="343" y="514" width="24" height="16" fill="#2f9e67"/>
-<rect x="391" y="512" width="24" height="18" fill="#d74b42"/>
-<rect x="439" y="516" width="24" height="14" fill="#2f9e67"/>
-<rect x="487" y="516" width="24" height="14" fill="#d74b42"/>
-<rect x="535" y="514" width="24" height="16" fill="#2f9e67"/>
-<rect x="583" y="498" width="24" height="32" fill="#2f9e67"/>
-<rect x="631" y="512" width="24" height="18" fill="#d74b42"/>
-<rect x="679" y="470" width="24" height="60" fill="#2f9e67"/>
-<rect x="727" y="492" width="24" height="38" fill="#2f9e67"/>
-<text x="90" y="535" font-size="18" font-family="PingFang SC, Arial" fill="#6b7280">量能区</text>
+<text x="90" y="162" font-size="13" font-family="PingFang SC, Arial" fill="#4b5563" font-weight="bold">均线</text>
+<line x1="125" y1="159" x2="145" y2="159" stroke="#f59e0b" stroke-width="3"/>
+<text x="149" y="162" font-size="12" font-family="PingFang SC, Arial" fill="#f59e0b">MA5</text>
+<line x1="183" y1="159" x2="203" y2="159" stroke="#8b5cf6" stroke-width="3" stroke-dasharray="6,4"/>
+<text x="207" y="162" font-size="12" font-family="PingFang SC, Arial" fill="#8b5cf6">MA10</text>
+<line x1="241" y1="159" x2="261" y2="159" stroke="#10b981" stroke-width="3"/>
+<text x="265" y="162" font-size="12" font-family="PingFang SC, Arial" fill="#10b981">MA20</text>
+<line x1="299" y1="159" x2="319" y2="159" stroke="#f97316" stroke-width="3"/>
+<text x="323" y="162" font-size="12" font-family="PingFang SC, Arial" fill="#f97316">MA30</text>
+<line x1="357" y1="159" x2="377" y2="159" stroke="#ef4444" stroke-width="3"/>
+<text x="381" y="162" font-size="12" font-family="PingFang SC, Arial" fill="#ef4444">MA60</text>
+<line x1="415" y1="159" x2="435" y2="159" stroke="#6b7280" stroke-width="3"/>
+<text x="439" y="162" font-size="12" font-family="PingFang SC, Arial" fill="#6b7280">MA120</text>
+<line x1="110" y1="258" x2="780" y2="258" stroke="#7c3aed" stroke-width="2" stroke-dasharray="8,4"/>
+<text x="630" y="248" font-size="15" font-family="PingFang SC, Arial" fill="#6d28d9">前高压力线</text>
+<rect x="292" y="329" width="270" height="144" fill="none" stroke="#2563eb" stroke-width="3"/>
+<text x="292" y="319" font-size="15" font-family="PingFang SC, Arial" fill="#1d4ed8">高位窄箱体</text>
+<polyline points="115,448 163,457 211,461 259,438 307,433 355,430 403,429 451,405 499,427 547,423 595,411 643,393 691,373 739,334" fill="none" stroke="#f59e0b" stroke-width="2.5"/>
+<polyline points="115,467 163,460 211,456 259,440 307,438 355,439 403,443 451,434 499,432 547,428 595,421 643,411 691,390 739,380" fill="none" stroke="#8b5cf6" stroke-width="2.5" stroke-dasharray="8,4"/>
+<polyline points="115,494 163,492 211,490 259,482 307,478 355,474 403,470 451,461 499,456 547,451 595,444 643,436 691,422 739,409" fill="none" stroke="#10b981" stroke-width="2.5"/>
+<polyline points="115,494 163,493 211,492 259,485 307,483 355,482 403,480 451,475 499,473 547,472 595,469 643,464 691,457 739,448" fill="none" stroke="#f97316" stroke-width="2.5"/>
+<polyline points="115,457 163,457 211,457 259,455 307,455 355,454 403,454 451,452 499,450 547,450 595,449 643,449 691,446 739,443" fill="none" stroke="#ef4444" stroke-width="2.5"/>
+<polyline points="115,441 163,442 211,444 259,444 307,446 355,447 403,448 451,448 499,449 547,450 595,450 643,450 691,449 739,448" fill="none" stroke="#6b7280" stroke-width="2.5"/>
+<line x1="115" y1="453" x2="115" y2="504" stroke="#2f9e67" stroke-width="3"/>
+<rect x="104" y="470" width="22" height="16" fill="#2f9e67"/>
+<line x1="163" y1="419" x2="163" y2="477" stroke="#d74b42" stroke-width="3"/>
+<rect x="152" y="437" width="22" height="22" fill="#d74b42"/>
+<line x1="211" y1="431" x2="211" y2="480" stroke="#d74b42" stroke-width="3"/>
+<rect x="200" y="449" width="22" height="13" fill="#d74b42"/>
+<line x1="259" y1="283" x2="259" y2="417" stroke="#2f9e67" stroke-width="3"/>
+<rect x="248" y="322" width="22" height="67" fill="#2f9e67"/>
+<line x1="307" y1="423" x2="307" y2="459" stroke="#d74b42" stroke-width="3"/>
+<rect x="296" y="434" width="22" height="15" fill="#d74b42"/>
+<line x1="355" y1="432" x2="355" y2="467" stroke="#d74b42" stroke-width="3"/>
+<rect x="344" y="443" width="22" height="14" fill="#d74b42"/>
+<line x1="403" y1="439" x2="403" y2="468" stroke="#d74b42" stroke-width="3"/>
+<rect x="392" y="450" width="22" height="8" fill="#d74b42"/>
+<line x1="451" y1="334" x2="451" y2="366" stroke="#2f9e67" stroke-width="3"/>
+<rect x="440" y="344" width="22" height="11" fill="#2f9e67"/>
+<line x1="499" y1="399" x2="499" y2="437" stroke="#d74b42" stroke-width="3"/>
+<rect x="488" y="410" width="22" height="16" fill="#d74b42"/>
+<line x1="547" y1="422" x2="547" y2="452" stroke="#2f9e67" stroke-width="3"/>
+<rect x="536" y="433" width="22" height="8" fill="#2f9e67"/>
+<line x1="595" y1="376" x2="595" y2="437" stroke="#2f9e67" stroke-width="3"/>
+<rect x="584" y="398" width="22" height="26" fill="#2f9e67"/>
+<line x1="643" y1="333" x2="643" y2="374" stroke="#d74b42" stroke-width="3"/>
+<rect x="632" y="355" width="22" height="5" fill="#d74b42"/>
+<line x1="691" y1="221" x2="691" y2="328" stroke="#2f9e67" stroke-width="3"/>
+<rect x="680" y="249" width="22" height="59" fill="#2f9e67"/>
+<line x1="739" y1="210" x2="739" y2="280" stroke="#2f9e67" stroke-width="3"/>
+<rect x="728" y="229" width="22" height="42" fill="#2f9e67"/>
+<rect x="103" y="548" width="24" height="12" fill="#6abf88"/>
+<rect x="151" y="546" width="24" height="14" fill="#d74b42"/>
+<rect x="199" y="544" width="24" height="16" fill="#d74b42"/>
+<rect x="247" y="502" width="24" height="58" fill="#6abf88"/>
+<rect x="295" y="542" width="24" height="18" fill="#d74b42"/>
+<rect x="343" y="544" width="24" height="16" fill="#d74b42"/>
+<rect x="391" y="542" width="24" height="18" fill="#d74b42"/>
+<rect x="439" y="546" width="24" height="14" fill="#6abf88"/>
+<rect x="487" y="546" width="24" height="14" fill="#d74b42"/>
+<rect x="535" y="544" width="24" height="16" fill="#6abf88"/>
+<rect x="583" y="530" width="24" height="30" fill="#6abf88"/>
+<rect x="631" y="542" width="24" height="18" fill="#d74b42"/>
+<rect x="679" y="505" width="24" height="55" fill="#6abf88"/>
+<rect x="727" y="525" width="24" height="35" fill="#6abf88"/>
+<text x="90" y="578" font-size="15" font-family="PingFang SC, Arial" fill="#6b7280">量能区</text>
+<circle cx="451" cy="366" r="6" fill="none" stroke="#ef4444" stroke-width="2"/>
+<text x="461" y="381" font-size="13" font-family="PingFang SC, Arial" fill="#dc2626">低吸试错点</text>
+<circle cx="691" cy="221" r="6" fill="#ef4444" stroke="none"/>
+<text x="651" y="206" font-size="13" font-family="PingFang SC, Arial" fill="#dc2626">突破确认点</text>
 <rect x="850" y="135" width="280" height="450" rx="16" fill="#ffffff" stroke="#d0c7bc"/>
 <text x="875" y="178" font-size="24" font-family="PingFang SC, Arial" fill="#111827">点评</text>
 <text x="875" y="220" font-size="18" font-family="PingFang SC, Arial" fill="#374151">趋势漂亮，小平台不突出</text>
