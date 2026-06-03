@@ -22,52 +22,52 @@
 <polyline points="115,386 163,385 211,385 259,383 307,381 355,380 403,378 451,376 499,373 547,369 595,367 643,362 691,355 739,349" fill="none" stroke="#f97316" stroke-width="2.5"/>
 <polyline points="115,448 163,444 211,441 259,436 307,433 355,429 403,425 451,420 499,416 547,411 595,406 643,401 691,395 739,390" fill="none" stroke="#ef4444" stroke-width="2.5"/>
 <polyline points="115,509 163,507 211,506 259,504 307,502 355,499 403,497 451,495 499,492 547,489 595,487 643,484 691,480 739,477" fill="none" stroke="#6b7280" stroke-width="2.5"/>
-<line x1="110" y1="231" x2="780" y2="231" stroke="#7c3aed" stroke-width="2" stroke-dasharray="8,4"/>
-<text x="630" y="221" font-size="15" font-family="PingFang SC, Arial" fill="#6d28d9">前高压力线</text>
-<rect x="292" y="300" width="270" height="188" fill="none" stroke="#2563eb" stroke-width="3"/>
-<text x="292" y="288" font-size="15" font-family="PingFang SC, Arial" fill="#1d4ed8">高位窄箱体</text>
-<line x1="115" y1="370" x2="115" y2="384" stroke="#2f9e67" stroke-width="3"/>
-<rect x="104" y="372" width="22" height="11" fill="#2f9e67"/>
-<line x1="163" y1="367" x2="163" y2="386" stroke="#d74b42" stroke-width="3"/>
-<rect x="152" y="368" width="22" height="16" fill="#d74b42"/>
-<line x1="211" y1="356" x2="211" y2="388" stroke="#2f9e67" stroke-width="3"/>
-<rect x="200" y="363" width="22" height="21" fill="#2f9e67"/>
-<line x1="259" y1="312" x2="259" y2="367" stroke="#2f9e67" stroke-width="3"/>
-<rect x="248" y="319" width="22" height="44" fill="#2f9e67"/>
-<line x1="307" y1="311" x2="307" y2="336" stroke="#d74b42" stroke-width="3"/>
-<rect x="296" y="314" width="22" height="17" fill="#d74b42"/>
-<line x1="355" y1="306" x2="355" y2="333" stroke="#2f9e67" stroke-width="3"/>
-<rect x="344" y="309" width="22" height="22" fill="#2f9e67"/>
-<line x1="403" y1="296" x2="403" y2="310" stroke="#2f9e67" stroke-width="3"/>
-<rect x="392" y="298" width="22" height="11" fill="#2f9e67"/>
-<line x1="451" y1="290" x2="451" y2="315" stroke="#d74b42" stroke-width="3"/>
-<rect x="440" y="293" width="22" height="17" fill="#d74b42"/>
-<line x1="499" y1="284" x2="499" y2="313" stroke="#2f9e67" stroke-width="3"/>
-<rect x="488" y="288" width="22" height="23" fill="#2f9e67"/>
-<line x1="547" y1="274" x2="547" y2="288" stroke="#2f9e67" stroke-width="3"/>
-<rect x="536" y="276" width="22" height="11" fill="#2f9e67"/>
-<line x1="595" y1="263" x2="595" y2="305" stroke="#d74b42" stroke-width="3"/>
-<rect x="584" y="268" width="22" height="28" fill="#d74b42"/>
-<line x1="643" y1="251" x2="643" y2="301" stroke="#2f9e67" stroke-width="3"/>
-<rect x="632" y="257" width="22" height="41" fill="#2f9e67"/>
-<line x1="691" y1="197" x2="691" y2="263" stroke="#2f9e67" stroke-width="3"/>
-<rect x="680" y="205" width="22" height="54" fill="#2f9e67"/>
-<line x1="739" y1="190" x2="739" y2="241" stroke="#d74b42" stroke-width="3"/>
-<rect x="728" y="194" width="22" height="41" fill="#d74b42"/>
-<rect x="103" y="550" width="24" height="10" fill="#6abf88"/>
-<rect x="151" y="545" width="24" height="15" fill="#d74b42"/>
-<rect x="199" y="540" width="24" height="20" fill="#6abf88"/>
-<rect x="247" y="520" width="24" height="40" fill="#6abf88"/>
-<rect x="295" y="545" width="24" height="15" fill="#d74b42"/>
-<rect x="343" y="540" width="24" height="20" fill="#6abf88"/>
-<rect x="391" y="550" width="24" height="10" fill="#6abf88"/>
-<rect x="439" y="545" width="24" height="15" fill="#d74b42"/>
-<rect x="487" y="540" width="24" height="20" fill="#6abf88"/>
-<rect x="535" y="550" width="24" height="10" fill="#6abf88"/>
-<rect x="583" y="535" width="24" height="25" fill="#d74b42"/>
-<rect x="631" y="525" width="24" height="35" fill="#6abf88"/>
-<rect x="679" y="515" width="24" height="45" fill="#6abf88"/>
-<rect x="727" y="525" width="24" height="35" fill="#d74b42"/>
+<rect x="289" y="269" width="276" height="72" fill="none" stroke="#2563eb" stroke-width="3"/>
+<text x="289" y="257" font-size="15" font-family="PingFang SC, Arial" fill="#1d4ed8">高位窄箱体</text>
+<line x1="110" y1="287" x2="780" y2="287" stroke="#7c3aed" stroke-width="2" stroke-dasharray="8,4"/>
+<text x="630" y="277" font-size="15" font-family="PingFang SC, Arial" fill="#6d28d9">前高压力线</text>
+<line x1="115" y1="370" x2="115" y2="384" stroke="#e83c3c" stroke-width="3"/>
+<rect x="104" y="372" width="22" height="11" fill="#e83c3c"/>
+<line x1="163" y1="367" x2="163" y2="386" stroke="#20b86e" stroke-width="3"/>
+<rect x="152" y="368" width="22" height="16" fill="#20b86e"/>
+<line x1="211" y1="356" x2="211" y2="388" stroke="#e83c3c" stroke-width="3"/>
+<rect x="200" y="363" width="22" height="21" fill="#e83c3c"/>
+<line x1="259" y1="312" x2="259" y2="367" stroke="#e83c3c" stroke-width="3"/>
+<rect x="248" y="319" width="22" height="44" fill="#e83c3c"/>
+<line x1="307" y1="311" x2="307" y2="336" stroke="#20b86e" stroke-width="3"/>
+<rect x="296" y="314" width="22" height="17" fill="#20b86e"/>
+<line x1="355" y1="306" x2="355" y2="333" stroke="#e83c3c" stroke-width="3"/>
+<rect x="344" y="309" width="22" height="22" fill="#e83c3c"/>
+<line x1="403" y1="296" x2="403" y2="310" stroke="#e83c3c" stroke-width="3"/>
+<rect x="392" y="298" width="22" height="11" fill="#e83c3c"/>
+<line x1="451" y1="290" x2="451" y2="315" stroke="#20b86e" stroke-width="3"/>
+<rect x="440" y="293" width="22" height="17" fill="#20b86e"/>
+<line x1="499" y1="284" x2="499" y2="313" stroke="#e83c3c" stroke-width="3"/>
+<rect x="488" y="288" width="22" height="23" fill="#e83c3c"/>
+<line x1="547" y1="274" x2="547" y2="288" stroke="#e83c3c" stroke-width="3"/>
+<rect x="536" y="276" width="22" height="11" fill="#e83c3c"/>
+<line x1="595" y1="263" x2="595" y2="305" stroke="#20b86e" stroke-width="3"/>
+<rect x="584" y="268" width="22" height="28" fill="#20b86e"/>
+<line x1="643" y1="251" x2="643" y2="301" stroke="#e83c3c" stroke-width="3"/>
+<rect x="632" y="257" width="22" height="41" fill="#e83c3c"/>
+<line x1="691" y1="197" x2="691" y2="263" stroke="#e83c3c" stroke-width="3"/>
+<rect x="680" y="205" width="22" height="54" fill="#e83c3c"/>
+<line x1="739" y1="190" x2="739" y2="241" stroke="#20b86e" stroke-width="3"/>
+<rect x="728" y="194" width="22" height="41" fill="#20b86e"/>
+<rect x="103" y="550" width="24" height="10" fill="#e83c3c"/>
+<rect x="151" y="545" width="24" height="15" fill="#20b86e"/>
+<rect x="199" y="540" width="24" height="20" fill="#e83c3c"/>
+<rect x="247" y="520" width="24" height="40" fill="#e83c3c"/>
+<rect x="295" y="545" width="24" height="15" fill="#20b86e"/>
+<rect x="343" y="540" width="24" height="20" fill="#e83c3c"/>
+<rect x="391" y="550" width="24" height="10" fill="#e83c3c"/>
+<rect x="439" y="545" width="24" height="15" fill="#20b86e"/>
+<rect x="487" y="540" width="24" height="20" fill="#e83c3c"/>
+<rect x="535" y="550" width="24" height="10" fill="#e83c3c"/>
+<rect x="583" y="535" width="24" height="25" fill="#20b86e"/>
+<rect x="631" y="525" width="24" height="35" fill="#e83c3c"/>
+<rect x="679" y="515" width="24" height="45" fill="#e83c3c"/>
+<rect x="727" y="525" width="24" height="35" fill="#20b86e"/>
 <text x="90" y="578" font-size="15" font-family="PingFang SC, Arial" fill="#6b7280">量能区</text>
 <rect x="850" y="135" width="280" height="450" rx="16" fill="#ffffff" stroke="#d0c7bc"/>
 <text x="875" y="178" font-size="24" font-family="PingFang SC, Arial" fill="#111827">点评</text>
